@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Unturned</name>
+    </assembly>
+    <members>
+        <member name="M:SDG.Unturned.UnturnedNexus.initialize">
+            <summary>
+            Register all built-in asset and useable types.
+            </summary>
+        </member>
+    </members>
+</doc>
